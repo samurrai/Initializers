@@ -1,0 +1,13 @@
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\bin\Debug\Initializers.exe.config
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\bin\Debug\Initializers.exe
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\bin\Debug\Initializers.pdb
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\bin\Debug\EntityFramework.dll
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\bin\Debug\EntityFramework.xml
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\obj\Debug\Initializers.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\obj\Debug\Initializers.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\obj\Debug\Initializers.csproj.CopyComplete
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\obj\Debug\Initializers.exe
+C:\Users\ШадикьянР\source\repos\Initializers\Initializers\obj\Debug\Initializers.pdb
